@@ -15,6 +15,7 @@ permalink: /students/
       + Matheus Servidoni Frois
 
 
+
 * Orientandos de ME810 - Estágio Supervisionado
 
 Na disciplina ME810 o aluno de graduação em Estatística desenvolve análise estatística de dados, apresentando monografia de final de curso sob orientação de um professor do departamento.
@@ -36,6 +37,8 @@ Na disciplina ME810 o aluno de graduação em Estatística desenvolve análise e
    + 1S2014
       + Gustavo Pedroso de Lima Brusse
       + Jone Chen Hao Min
+
+
 
 * Orientandos de ME710 - Assessoria Estatística
 
