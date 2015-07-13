@@ -37,7 +37,6 @@ Na disciplina ME810 o aluno de graduação em Estatística desenvolve análise e
       + Gustavo Pedroso de Lima Brusse
       + Jone Chen Hao Min
 
-
 * Orientandos de ME710 - Assessoria Estatística
 
 Na disciplina ME710 o aluno de graduação em Estatística desenvolve assessoria estatística, apresentando relatórios e apresetanção oral sob orientação de um professor do departamento.
