@@ -5,7 +5,7 @@ permalink: /students/
 ---
 
 
-* Orientandos de Iniciação Científica ProFIS
+### Orientandos de Iniciação Científica ProFIS
 
   + 2S2015
       + Deise Aparecida dos Santos  
@@ -15,8 +15,7 @@ permalink: /students/
       + Matheus Servidoni Frois
 
 
-
-* Orientandos de ME810 - Estágio Supervisionado
+### Orientandos de ME810 - Estágio Supervisionado
 
 Na disciplina ME810 o aluno de graduação em Estatística desenvolve análise estatística de dados, apresentando monografia de final de curso sob orientação de um professor do departamento.
 
@@ -40,7 +39,7 @@ Na disciplina ME810 o aluno de graduação em Estatística desenvolve análise e
 
 
 
-* Orientandos de ME710 - Assessoria Estatística
+### Orientandos de ME710 - Assessoria Estatística
 
 Na disciplina ME710 o aluno de graduação em Estatística desenvolve assessoria estatística, apresentando relatórios e apresetanção oral sob orientação de um professor do departamento.
 
