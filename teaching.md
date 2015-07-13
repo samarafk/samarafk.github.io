@@ -15,6 +15,7 @@ permalink: /teaching/
 
   + ME414 - Estatística para Experimentalistas (2S-2013, [1S-2014](http://www.ggte.unicamp.br/moodle/enrol/index.php?id=369), [2S-2015](http://samarafk.github.io/ME414/))
 
+
 * Cursos na Pós-Graduação - Estatística (Mestrado)
 
   + MI814 - Tópicos em Estatística II (Métodos Estatísticos Aplicados à Aprendizagem de Máquina)
