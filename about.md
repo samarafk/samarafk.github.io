@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Sou Professora do [Departamento de Estatística](http://www.ime.unicamp.br/conteudo/departamento-estatistica) no [Instituto de Matemática Estatística e Computação Científica](http://www.ime.unicamp.br/) da [Unicamp](http://www.unicamp.br/unicamp/).
+Minha principal área de pesquisa é metodologia estatística aplicada à biologia e medicina.
