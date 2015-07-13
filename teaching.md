@@ -18,4 +18,4 @@ permalink: /teaching/
 
 ### Cursos na Pós-Graduação - Estatística (Mestrado)
 
-  + MI814 - Tópicos em Estatística II (Métodos Estatísticos Aplicados à Aprendizagem de Máquina)
+  + MI814 - Tópicos em Estatística II - Métodos Estatísticos Aplicados à Aprendizagem de Máquina (Verão-2013)
