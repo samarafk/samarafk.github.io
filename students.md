@@ -63,10 +63,10 @@ Na disciplina ME710 o aluno de graduação em Estatística desenvolve assessoria
 
 ### Orientandos do Programa de Estágio Docente (PED)
 
-O programa ossibilita o aperfeiçoamento da formação do estudante de Pós-Graduação com estágio em experiência docente ou de apoio às atividades docentes.
+O programa possibilita o aperfeiçoamento da formação do estudante de Pós-Graduação com estágio em experiência docente e de apoio às atividades docentes.
 
 * 2S2015
-   + 
+   +
 
 
 ### Orientandos do Programa de Apoio Didático (PAD)
