@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Simple template for scientific manuscripts in R markdown"
 date:   2015-07-14 11:48:19
 categories: Rmarkdown
 ---
