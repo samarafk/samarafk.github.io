@@ -66,7 +66,9 @@ Na disciplina ME710 o aluno de graduação em Estatística desenvolve assessoria
 O programa possibilita o aperfeiçoamento da formação do estudante de Pós-Graduação com estágio em experiência docente e de apoio às atividades docentes.
 
 * 2S2015
-   +
+   + José Roberto Silva dos Santos (PED-B)
+   + Juan Leonardo Padilla Gómez (PED-C)
+   + Luiz Carlos dos Santos Ferreira Junior (PED-C)
 
 
 ### Orientandos do Programa de Apoio Didático (PAD)
