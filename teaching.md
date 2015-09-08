@@ -6,14 +6,14 @@ permalink: /teaching/
 
 ### Graduação - Estatística
 
-  +  ME430 - Técnicas de Amostragem ([2S-2015](http://samarafk.github.io/ME430/), [2S-2014](http://www.ggte.unicamp.br/moodle/course/view.php?id=463),2S-2013,)
+  +  ME430 - Técnicas de Amostragem ([2S-2015](http://samarafk.github.io/ME430/), [2S-2014](http://www.ggte.unicamp.br/moodle/course/view.php?id=463), 2S-2013)
   +  ME731 - Métodos em Análise Multivariada ([2S-2014](http://www.ggte.unicamp.br/moodle/course/view.php?id=459))
   +  ME111 - Laboratório de Estatística ([1S-2015](http://www.ggte.unicamp.br/moodle/course/info.php?id=593))
 
 
 ### Graduação - Engenharias, Ciências Biológias, Ciências Econômicas
 
-  + ME414 - Estatística para Experimentalistas ([2S-2015](http://samarafk.github.io/ME414/), [1S-2014](http://www.ggte.unicamp.br/moodle/enrol/index.php?id=369),2S-2013)
+  + ME414 - Estatística para Experimentalistas ([2S-2015](http://samarafk.github.io/ME414/), [1S-2014](http://www.ggte.unicamp.br/moodle/enrol/index.php?id=369), 2S-2013)
 
 
 ### Mestrado - Estatística

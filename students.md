@@ -8,7 +8,7 @@ permalink: /students/
 ### Orientandos de Iniciação Científica ProFIS
 
   + 2S2015
-      + Deise Aparecida dos Santos  
+      + Deise Aparecida dos Santos
       + Matheus Servidoni Frois
   + 1S2015
       + Deise Aparecida dos Santos
@@ -36,7 +36,6 @@ Na disciplina ME810 o aluno de graduação em Estatística desenvolve análise e
    + 1S2014
       + Gustavo Pedroso de Lima Brusse
       + Jone Chen Hao Min
-
 
 
 ### Orientandos de ME710 - Assessoria Estatística
@@ -68,7 +67,7 @@ O programa possibilita o aperfeiçoamento da formação do estudante de Pós-Gra
 * 2S2015
    + José Roberto Silva dos Santos (PED-B)
    + Juan Leonardo Padilla Gómez (PED-C)
-   + Luiz Carlos dos Santos Ferreira Junior (PED-C)
+   + Marcelo Santos Carielo (PED-C)
 
 
 ### Orientandos do Programa de Apoio Didático (PAD)
