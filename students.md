@@ -19,7 +19,7 @@ permalink: /students/
 
 Na disciplina ME810 o aluno de graduação em Estatística desenvolve análise estatística de dados, apresentando monografia de final de curso sob orientação de um professor do departamento.
 
-Alunos interessados em orientação para ME810 podem acessar informações [aqui](ME710_ME810).
+Alunos interessados em orientação para ME810 podem acessar informações [aqui](../ME710_ME810).
 
    + 2S2015
      + Alan Alexandre
