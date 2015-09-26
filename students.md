@@ -44,6 +44,9 @@ Alunos interessados em orientação para ME810 podem acessar informações [aqui
 
 Na disciplina ME710 o aluno de graduação em Estatística desenvolve assessoria estatística, apresentando relatórios e apresetanção oral sob orientação de um professor do departamento.
 
+Alunos interessados em orientação para ME710 podem acessar informações [aqui](../ME710_ME810).
+
+
    + 2S2015
       + Larissa dos Santos Marinho
       + Luana Osaka Ohashi
@@ -74,7 +77,7 @@ O programa possibilita o aperfeiçoamento da formação do estudante de Pós-Gra
 
 ### Orientandos do Programa de Apoio Didático (PAD)
 
-As atividades do PAD visam o aprimoramente do ensino de graduação através de monitoria exercida pelos estudantes, sempre com o acompanhamento de um docente.
+As atividades do PAD visam o aprimoramente do ensino de graduação através de monitoria exercida pelos estudantes, com o acompanhamento de um docente.
 
 * 1S2015
   + Beatriz Lopes Mermejo
