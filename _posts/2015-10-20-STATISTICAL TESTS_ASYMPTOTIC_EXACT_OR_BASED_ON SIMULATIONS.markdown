@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "STATISTICAL TESTS: ASYMPTOTIC, EXACT, OU BASED ON SIMULATIONS?"
+title:  "Statistical tests: asymptotic, exact, or based on simulations?"
 date:   2015-10-20 11:48:19
 categories: Rmarkdown
 ---
