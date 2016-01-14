@@ -7,7 +7,8 @@ permalink: /teaching/
 ### Graduação - Estatística
 
   +  ME111 - Laboratório de Estatística ([1S-2015](http://www.ggte.unicamp.br/moodle/course/info.php?id=593))
-  +  ME430 - Técnicas de Amostragem ([2S-2015](http://samarafk.github.io/ME430/), [2S-2014](http://www.ggte.unicamp.br/moodle/course/view.php?id=463), 2S-2013,)
+  +  ME430 - Técnicas de Amostragem ([2S-2015](http://samarafk.github.io/ME430/), [2S-2014](http://www.ggte.unicamp.br/moodle/course/view.php?id=463), 2S-2013)
+  +  ME613 - Análise de Regressão ([1S-2016](http://samarafk.github.io/ME613/))
   +  ME731 - Métodos em Análise Multivariada ([2S-2014](http://www.ggte.unicamp.br/moodle/course/view.php?id=459))
 
 
