@@ -82,8 +82,6 @@ O programa possibilita o aperfeiçoamento da formação do estudante de Pós-Gra
 
 As atividades do PAD visam o aprimoramente do ensino de graduação através de monitoria exercida pelos estudantes, com o acompanhamento de um docente.
 
-* 1S2016
-  + Rafael Henrique Piassa
 * 1S2015
   + Beatriz Lopes Mermejo
 * 1S2014
