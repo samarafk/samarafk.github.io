@@ -21,6 +21,11 @@ Na disciplina ME810 o aluno de graduação em Estatística desenvolve análise e
 
 Alunos interessados em orientação para ME810 podem acessar informações [aqui](../ME710_ME810).
 
+  
+   + 1S2017
+      + Bruna de Lima
+      + Johnny Alouizor
+
    + 2S2015
      + Alan Alexandre
      + Rodrigo Vieira Zerbini
@@ -46,7 +51,10 @@ Na disciplina ME710 o aluno de graduação em Estatística desenvolve assessoria
 
 Alunos interessados em orientação para ME710 podem acessar informações [aqui](../ME710_ME810).
 
-
+   + 1S2017
+      + Murilo Marçon Bergamaschi
+      + Yasmine Abboudi Brasco
+   
    + 1S2016
       + Bruna Nascimento Marques
       + Bruna de Lima
