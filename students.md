@@ -54,6 +54,7 @@ Alunos interessados em orientação para ME710 podem acessar informações [aqui
    + 1S2017
       + Murilo Marçon Bergamaschi
       + Yasmine Abboudi Brasco
+      + Leonardo Torin
    
    + 1S2016
       + Bruna Nascimento Marques
@@ -80,6 +81,9 @@ Alunos interessados em orientação para ME710 podem acessar informações [aqui
 
 O programa possibilita o aperfeiçoamento da formação do estudante de Pós-Graduação com estágio em experiência docente e de apoio às atividades docentes.
 
+* 1S2017
+   + Luis Francisco Prado Pinheiro F. Salles (PED-C)
+
 * 2S2015
    + José Roberto Silva dos Santos (PED-B)
    + Juan Leonardo Padilla Gómez (PED-C)
@@ -90,6 +94,9 @@ O programa possibilita o aperfeiçoamento da formação do estudante de Pós-Gra
 
 As atividades do PAD visam o aprimoramente do ensino de graduação através de monitoria exercida pelos estudantes, com o acompanhamento de um docente.
 
+* 1S2017
+  + Leonardo Torin
+  + Lucas Mattos Souza 
 * 1S2015
   + Beatriz Lopes Mermejo
 * 1S2014
