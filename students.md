@@ -23,23 +23,23 @@ Alunos interessados em orientação para ME810 podem acessar informações [aqui
 
   
    + 1S2017
-      + Bruna de Lima
+      + [Bruna de Lima](https://www.linkedin.com/in/bruna-de-lima-720a14a3)
       + Johnny Alouizor
 
    + 2S2015
-     + Alan Alexandre
+     + [Alan Alexandre](https://www.linkedin.com/in/alan-alexandre-6b1a28128)
      + Rodrigo Vieira Zerbini
-     + Thaís Bonventre Coelho
-     + Thamires Cremasco de Oliveira
+     + [Thaís Bonventre Coelho](https://www.linkedin.com/in/thais-bonventre-coelho-2baa69ba)
+     + [Thamires Cremasco de Oliveira](https://www.linkedin.com/in/thamires-cremasco-43465367)
    + 1S2015
-      + Fernanda Cálippo Melato
-      + Talita Muniz de Lima
+      + [Fernanda Cálippo Melato](https://www.linkedin.com/in/fernanda-melato-33396087)
+      + [Talita Muniz de Lima](https://www.linkedin.com/in/talita-muniz-de-lima-444886a9)
       + Thaís Castelo Branco Monho
-      + Thalita Terumi Yuki
+      + [Thalita Terumi Yuki](https://www.linkedin.com/in/thalita-yuki-735008112)
    + 2S2014
       + André Gerioli Rocha
-      + Mayara Caroline Maioli
-      + Raquel Yuri Nakazato
+      + [Mayara Caroline Maioli](https://www.linkedin.com/in/mayara-maioli-8302a888/)
+      + [Raquel Yuri Nakazato](https://www.linkedin.com/in/raquel-yuri-nakazato-2a8a2978)
    + 1S2014
       + Gustavo Pedroso de Lima Brusse
       + Jone Chen Hao Min
@@ -57,23 +57,23 @@ Alunos interessados em orientação para ME710 podem acessar informações [aqui
       + Leonardo Torin
    
    + 1S2016
-      + Bruna Nascimento Marques
-      + Bruna de Lima
+      + [Bruna Nascimento Marques](https://www.linkedin.com/in/bruna-marques-710477112/)
+      + [Bruna de Lima](https://www.linkedin.com/in/bruna-de-lima-720a14a3)
    + 2S2015
-      + Larissa dos Santos Marinho
+      + [Larissa dos Santos Marinho](https://www.linkedin.com/in/larissa-marinho-a89420a3/)
       + Luana Osaka Ohashi
    + 1S2015
-      + Danielle Lanzarini Pinto
-      + Thaís Bonventre Coelho
-      + Thais Mitie Momma
+      + [Danielle Lanzarini Pinto](https://www.linkedin.com/in/danielle-lanzarini-pinto-9a210ab4/)
+      + [Thaís Bonventre Coelho](https://www.linkedin.com/in/thais-bonventre-coelho-2baa69ba/)
+      + [Thais Mitie Momma](https://www.linkedin.com/in/thais-mitie-momma-21713ba0/)
    + 2S2014
       + Felipe Say Kik Ho
-      + Gabriel Avezum
+      + [Gabriel Avezum](https://www.linkedin.com/in/gabriel-avezum-593149b8/)
       + Rodrigo Vieira Zerbini
-      + Talita Muniz de Lima
+      + [Talita Muniz de Lima](https://www.linkedin.com/in/talita-muniz-de-lima-444886a9)
    + 1S2014
-      + Raquel Yuri Nakazato
-      + Thalita Terumi Yuki
+      + [Raquel Yuri Nakazato](https://www.linkedin.com/in/raquel-yuri-nakazato-2a8a2978)
+      + [Thalita Terumi Yuki](https://www.linkedin.com/in/thalita-yuki-735008112)
    + 2S2013
       + Gustavo Pedroso de Lima Brusse
 
