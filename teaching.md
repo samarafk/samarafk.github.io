@@ -23,3 +23,9 @@ permalink: /teaching/
 ### Mestrado - Estatística
 
   + MI814 - Tópicos em Estatística II - Métodos Estatísticos Aplicados à Aprendizagem de Máquina (Verão-2013)
+  
+### Outros
+
+   + [UPA - Unicamp de Portas Abertas](http://samarafk.github.io/UPA/)
+   + Dia da Matemática - Oficina de Estatística
+   
