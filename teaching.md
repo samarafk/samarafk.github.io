@@ -27,5 +27,5 @@ permalink: /teaching/
 ### Outros
 
    + [UPA - Unicamp de Portas Abertas](http://samarafk.github.io/UPA/)
-   + Dia da Matemática - Oficina de Estatística
+   + Dia da Matemática - [Oficina de Estatística](https://github.com/samarafk/DiaDaMatematica/raw/master/2017/slides/slides_dia_da_matematica_2017.pdf)
    
