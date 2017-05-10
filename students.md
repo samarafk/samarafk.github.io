@@ -24,7 +24,7 @@ Alunos interessados em orientação para ME810 podem acessar informações [aqui
   
    + 1S2017
       + [Bruna de Lima](https://www.linkedin.com/in/bruna-de-lima-720a14a3)
-      + Johnny Alouizor
+      + [Johnny Alouizor](https://www.linkedin.com/in/johnny-alouizor-1802543a)
 
    + 2S2015
      + [Alan Alexandre](https://www.linkedin.com/in/alan-alexandre-6b1a28128)
@@ -52,9 +52,9 @@ Na disciplina ME710 o aluno de graduação em Estatística desenvolve assessoria
 Alunos interessados em orientação para ME710 podem acessar informações [aqui](../ME710_ME810).
 
    + 1S2017
-      + Murilo Marçon Bergamaschi
+      + [Murilo Marçon Bergamaschi](https://www.linkedin.com/in/murilo-bergamaschi-66b357136)
       + Yasmine Abboudi Brasco
-      + Leonardo Torin
+      + [Leonardo Torin](https://www.linkedin.com/in/leonardo-torin-1a7722140)
    
    + 1S2016
       + [Bruna Nascimento Marques](https://www.linkedin.com/in/bruna-marques-710477112/)
