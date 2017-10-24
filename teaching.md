@@ -26,6 +26,7 @@ permalink: /teaching/
   
 ### Outros
 
+   + [Minicurso - Introdução ao Aprendizado de Máquinas usando R - XII Encontro Científico dos Pós-Graduandos do IMECC ](https://drive.google.com/open?id=0Bw8jARg9fR8NM0JPeWZUOE81WUE)
    + [UPA - Unicamp de Portas Abertas](http://samarafk.github.io/UPA/)
    + Dia da Matemática - [Oficina de Estatística](https://github.com/samarafk/DiaDaMatematica/raw/master/2017/slides/slides_dia_da_matematica_2017.pdf)
    
