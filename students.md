@@ -21,6 +21,13 @@ Na disciplina ME810 o aluno de graduação em Estatística desenvolve análise e
 
 Alunos interessados em orientação para ME810 podem acessar informações [aqui](../ME710_ME810).
 
+
+
+  
+   + 2S2017
+      + [Leonardo Torin](https://www.linkedin.com/in/leonardo-torin-1a7722140)
+      + [Mônica Paiva Quast](http://lattes.cnpq.br/6032181929102158)
+
   
    + 1S2017
       + [Bruna de Lima](https://www.linkedin.com/in/bruna-de-lima-720a14a3)
@@ -53,7 +60,7 @@ Alunos interessados em orientação para ME710 podem acessar informações [aqui
 
    + 1S2017
       + [Murilo Marçon Bergamaschi](https://www.linkedin.com/in/murilo-bergamaschi-66b357136)
-      + Yasmine Abboudi Brasco
+      + [Yasmine Abboudi Brasco](https://www.linkedin.com/in/yasmine-brasco-42703614b)
       + [Leonardo Torin](https://www.linkedin.com/in/leonardo-torin-1a7722140)
    
    + 1S2016
@@ -61,7 +68,7 @@ Alunos interessados em orientação para ME710 podem acessar informações [aqui
       + [Bruna de Lima](https://www.linkedin.com/in/bruna-de-lima-720a14a3)
    + 2S2015
       + [Larissa dos Santos Marinho](https://www.linkedin.com/in/larissa-marinho-a89420a3/)
-      + Luana Osaka Ohashi
+      + [Luana Osaka Ohashi](https://www.linkedin.com/in/luana-ohashi-b97905117)
    + 1S2015
       + [Danielle Lanzarini Pinto](https://www.linkedin.com/in/danielle-lanzarini-pinto-9a210ab4/)
       + [Thaís Bonventre Coelho](https://www.linkedin.com/in/thais-bonventre-coelho-2baa69ba/)
@@ -69,17 +76,20 @@ Alunos interessados em orientação para ME710 podem acessar informações [aqui
    + 2S2014
       + Felipe Say Kik Ho
       + [Gabriel Avezum](https://www.linkedin.com/in/gabriel-avezum-593149b8/)
-      + Rodrigo Vieira Zerbini
+      + [Rodrigo Vieira Zerbini](https://www.linkedin.com/in/rodrigo-vieira-zerbini-55a191142)
       + [Talita Muniz de Lima](https://www.linkedin.com/in/talita-muniz-de-lima-444886a9)
    + 1S2014
       + [Raquel Yuri Nakazato](https://www.linkedin.com/in/raquel-yuri-nakazato-2a8a2978)
       + [Thalita Terumi Yuki](https://www.linkedin.com/in/thalita-yuki-735008112)
    + 2S2013
-      + Gustavo Pedroso de Lima Brusse
+      + [Gustavo Pedroso de Lima Brusse](http://lattes.cnpq.br/0541850429767181)
 
 ### Orientandos do Programa de Estágio Docente (PED)
 
 O programa possibilita o aperfeiçoamento da formação do estudante de Pós-Graduação com estágio em experiência docente e de apoio às atividades docentes.
+
+* 2S2017
+   + [Nathalia Lima Chaves](http://lattes.cnpq.br/7379678423570217)
 
 * 1S2017
    + Luis Francisco Prado Pinheiro F. Salles (PED-C)
@@ -94,10 +104,12 @@ O programa possibilita o aperfeiçoamento da formação do estudante de Pós-Gra
 
 As atividades do PAD visam o aprimoramente do ensino de graduação através de monitoria exercida pelos estudantes, com o acompanhamento de um docente.
 
+* 2S2017
+  + Sabrina Alvez Rojas de Souza
 * 1S2017
   + [Leonardo Torin](https://www.linkedin.com/in/leonardo-torin-1a7722140)
-  + Lucas Mattos Souza 
+  + [Lucas Mattos Souza](https://www.linkedin.com/in/lucas-souza-889188116)
 * 1S2015
   + [Beatriz Lopes Mermejo](https://www.linkedin.com/in/beatriz-lopes-mermejo-946803a1)
 * 1S2014
-  + Adriano Mitsuo Takayama
+  + [Adriano Mitsuo Takayama](https://www.linkedin.com/in/adriano-mitsuo-takayama-375b73101)
