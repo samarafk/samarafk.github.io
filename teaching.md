@@ -7,8 +7,8 @@ permalink: /teaching/
 ### Graduação - Estatística
 
   +  ME111 - Laboratório de Estatística ([1S-2017](http://me111-unicamp.github.io/),[1S-2015](http://www.ggte.unicamp.br/moodle/course/info.php?id=593))
-  +  ME115 - Linguagem R ([1S-2018](http://me115-unicamp.github.io/)
-  +  ME415 - Método Científico e Técnicas de Pesquisa ([1S-2018](http://me415-unicamp.github.io/)
+  +  ME115 - Linguagem R ([1S-2018](http://me115-unicamp.github.io/))
+  +  ME415 - Método Científico e Técnicas de Pesquisa ([1S-2018](http://me415-unicamp.github.io/))
   +  ME430 - Técnicas de Amostragem ([2S-2015](http://samarafk.github.io/ME430/), [2S-2014](http://www.ggte.unicamp.br/moodle/course/view.php?id=463), 2S-2013)
   +  ME613 - Análise de Regressão ([1S-2016](http://me613-unicamp.github.io/))
   +  ME731 - Métodos em Análise Multivariada ([2S-2014](http://www.ggte.unicamp.br/moodle/course/view.php?id=459))
