@@ -88,6 +88,10 @@ Alunos interessados em orientação para ME710 podem acessar informações [aqui
 
 O programa possibilita o aperfeiçoamento da formação do estudante de Pós-Graduação com estágio em experiência docente e de apoio às atividades docentes.
 
+
+* 1S2018
+   + [Heidi Mara do Rosário Sousa](http://lattes.cnpq.br/3075263212674826)
+
 * 2S2017
    + [Nathalia Lima Chaves](http://lattes.cnpq.br/7379678423570217)
 
