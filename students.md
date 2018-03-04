@@ -26,7 +26,7 @@ Alunos interessados em orientação para ME810 podem acessar informações [aqui
   
    + 2S2017
       + [Leonardo Torin](https://www.linkedin.com/in/leonardo-torin-1a7722140)
-      + [Mônica Paiva Quast](http://lattes.cnpq.br/6032181929102158)
+      + [Mônica Paiva Quast](https://www.linkedin.com/in/monica-quast-b203b4157)
 
   
    + 1S2017
