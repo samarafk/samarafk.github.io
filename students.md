@@ -21,8 +21,9 @@ Na disciplina ME810 o aluno de graduação em Estatística desenvolve análise e
 
 Alunos interessados em orientação para ME810 podem acessar informações [aqui](../ME710_ME810).
 
-
-
+  + 1S2018
+     + [Bruno Miranda Garcia](https://www.linkedin.com/in/brunomgarcia)
+     + [Murilo Marçon Bergamaschi](https://www.linkedin.com/in/murilo-bergamaschi-66b357136)
   
    + 2S2017
       + [Leonardo Torin](https://www.linkedin.com/in/leonardo-torin-1a7722140)
