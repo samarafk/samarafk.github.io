@@ -36,7 +36,7 @@ Alunos interessados em orientação para ME810 podem acessar informações [aqui
 
    + 2S2015
      + [Alan Alexandre](https://www.linkedin.com/in/alan-alexandre-6b1a28128)
-     + Rodrigo Vieira Zerbini
+     + [Rodrigo Vieira Zerbini](https://www.linkedin.com/in/rodrigo-vieira-zerbini-55a191142)
      + [Thaís Bonventre Coelho](https://www.linkedin.com/in/thais-bonventre-coelho-2baa69ba)
      + [Thamires Cremasco de Oliveira](https://www.linkedin.com/in/thamires-cremasco-43465367)
    + 1S2015
