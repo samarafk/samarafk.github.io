@@ -5,16 +5,12 @@ permalink: /students/
 ---
 
 
-### Orientandos de Iniciação Científica ProFIS
+### Orientandos de Iniciação Científica
 
-  + 2S2015
-      + Deise Aparecida dos Santos
-      + Matheus Servidoni Frois
-  + 1S2015
-      + Deise Aparecida dos Santos
-      + Matheus Servidoni Frois
-
-
+  + 2S2018
+      + [Nicole Nogueira Silva](http://lattes.cnpq.br/1565347814502184)
+      
+      
 ### Orientandos de ME810 - Estágio Supervisionado
 
 Na disciplina ME810 o aluno de graduação em Estatística desenvolve análise estatística de dados, apresentando monografia de final de curso sob orientação de um professor do departamento.
@@ -118,3 +114,13 @@ As atividades do PAD visam o aprimoramente do ensino de graduação através de 
   + [Beatriz Lopes Mermejo](https://www.linkedin.com/in/beatriz-lopes-mermejo-946803a1)
 * 1S2014
   + [Adriano Mitsuo Takayama](https://www.linkedin.com/in/adriano-mitsuo-takayama-375b73101)
+
+
+### Orientandos de Iniciação Científica ProFIS
+
+  + 2S2015
+      + Deise Aparecida dos Santos
+      + Matheus Servidoni Frois
+  + 1S2015
+      + Deise Aparecida dos Santos
+      + Matheus Servidoni Frois
