@@ -7,27 +7,27 @@ permalink: /teaching/
 ### Graduação - Estatística
 
   +  ME111 - Laboratório de Estatística
-    * [1S-2017](http://me111-unicamp.github.io/)
-    * [1S-2015](http://www.ggte.unicamp.br/moodle/course/info.php?id=593)
+     * [1S-2017](http://me111-unicamp.github.io/)
+     * [1S-2015](http://www.ggte.unicamp.br/moodle/course/info.php?id=593)
   +  ME115 - Linguagem R
      * [1S-2018](http://me115-unicamp.github.io/)
   +  ME415 - Método Científico e Técnicas de Pesquisa
-    * [1S-2018](http://me415-unicamp.github.io/)
+     * [1S-2018](http://me415-unicamp.github.io/)
   +  ME430 - Técnicas de Amostragem
-    * [2S-2015](http://samarafk.github.io/ME430/)
-    * [2S-2014](http://www.ggte.unicamp.br/moodle/course/view.php?id=463)
-    * 2S-2013
+     * [2S-2015](http://samarafk.github.io/ME430/)
+     * [2S-2014](http://www.ggte.unicamp.br/moodle/course/view.php?id=463)
+     * 2S-2013
   +  ME613 - Análise de Regressão
-    * [1S-2016](http://me613-unicamp.github.io/)
+     * [1S-2016](http://me613-unicamp.github.io/)
   +  ME731 - Métodos em Análise Multivariada
-    * [2S-2014](http://www.ggte.unicamp.br/moodle/course/view.php?id=459)
+     * [2S-2014](http://www.ggte.unicamp.br/moodle/course/view.php?id=459)
   +  ME710 - Assessoria Estatística
-    * [1S-2015](http://www.ggte.unicamp.br/moodle/course/view.php?id=594)
+     * [1S-2015](http://www.ggte.unicamp.br/moodle/course/view.php?id=594)
   +  ME810 - Estágio Supervisionado
-    * [1S-2015](http://www.ggte.unicamp.br/moodle/course/view.php?id=595)
+     * [1S-2015](http://www.ggte.unicamp.br/moodle/course/view.php?id=595)
   +  ME850 - Seminários de Estatística
-    * [2S-2018]()
-    * [2S-2015](http://www.ggte.unicamp.br/eam/course/view.php?id=1514)
+     * 2S-2018
+     * [2S-2015](http://www.ggte.unicamp.br/eam/course/view.php?id=1514)
 
 
 ### Graduação - Engenharias, Ciências Biológias, Ciências Econômicas
